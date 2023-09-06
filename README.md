@@ -1,2 +1,2 @@
 # CovidVision
-[View PDF](CovidVision-certificate.pdf)
+![Alt text](CovidVision-certificate_image.jpg)
